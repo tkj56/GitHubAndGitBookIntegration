@@ -4,7 +4,7 @@ description: Some Code in Tab and some API Calls
 
 # GitBook To GitHub, Created on GB
 
-## Code block examples
+## Code block
 
 {% tabs %}
 {% tab title="C\#" %}
