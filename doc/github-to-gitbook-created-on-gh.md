@@ -2,7 +2,7 @@
 description: Some Code in Tab and some API Calls
 ---
 
-# GitBook To GitHub
+# GitHub To GitBook
 
 {% tabs %}
 {% tab title="C\#" %}
