@@ -4,7 +4,7 @@ description: Some Code in Tab and some API Calls
 
 # GitBook To GitHub, Created on GB
 
-
+## Code block examples
 
 {% tabs %}
 {% tab title="C\#" %}
@@ -190,6 +190,8 @@ return $response;
 ```
 {% endtab %}
 {% endtabs %}
+
+## API call examples
 
 {% api-method method="post" host=" " path="/Payment/v1/PaymentPage/Initialize" %}
 {% api-method-summary %}
