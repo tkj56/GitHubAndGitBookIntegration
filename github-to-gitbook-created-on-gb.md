@@ -4,8 +4,6 @@ description: Some Code in Tab and some API Calls
 
 # GitHub To GitBook, Created on GB
 
-
-
 {% tabs %}
 {% tab title="C\#" %}
 ```csharp
